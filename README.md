@@ -1,8 +1,8 @@
-Project Overview
+**Project Overview**
 
 This project aims to predict worldwide box office revenue for movies using machine learning techniques. By analyzing factors like production budget, runtime, IMDb ratings, and audience votes, we can estimate a movie’s potential earnings.
 
-Repository Contents
+**Repository Contents**
 
 Predicting Movie Box Office Revenue.ipynb – Main notebook for data processing, model training, and evaluation.
 
@@ -10,17 +10,17 @@ README.md – Documentation for the project, including methodology and results.
 
 movie_statistic_dataset.csv – The dataset used in this analysis.
 
-Libraries Used
+**Libraries Used**
 
-pandas – Data manipulation
+- pandas – Data manipulation
 
-numpy – Numerical operations
+- numpy – Numerical operations
 
-matplotlib & seaborn – Data visualization
+- matplotlib & seaborn – Data visualization
 
-scikit-learn – Machine learning models and evaluation
+- scikit-learn – Machine learning models and evaluation
 
-Methodology
+**Methodology**
 
 This project follows the CRISP-DM process:
 
@@ -54,7 +54,7 @@ This project follows the CRISP-DM process:
 
 - Prediction: $565.9M worldwide revenue.
 
-Key Findings
+**Key Findings**
 
 - Budget and audience engagement are major predictors of box office success.
 
@@ -62,7 +62,7 @@ Key Findings
 
 - Genre-based revenue analysis could be a next step for improvement.
 
-Acknowledgments
+**Acknowledgments**
 
 - Dataset Source: The Ultimate Film Statistics Dataset from Kaggle.
 
